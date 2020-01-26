@@ -5,5 +5,6 @@ end
 
 ## Comment the below back in to see method scope in action!
 
-rescue_princess_peach
+def rescue_princess_peach(stauts)
 puts status
+end 
